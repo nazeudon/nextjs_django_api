@@ -30,7 +30,7 @@ SECRET_KEY = config('SECRET_KEY')
 # DEBUG = True
 DEBUG = config('DEBUG')
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nextjs-django.herokuapp.com']
 
 
 # Application definition
